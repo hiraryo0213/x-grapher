@@ -38,7 +38,7 @@
     "weather-icons": "git+https://github.com/erikflowers/weather-icons.git"
   },
   "devDependencies": {
-    "@fast-csv/parse": "^4.3.0",
+    "@fast-csv/parse": "^4.3.6",
     "@types/d3-ease": "^1.0.9",
     "@types/japanese-holidays": "^1.0.0",
     "@types/moment-timezone": "^0.5.13",
