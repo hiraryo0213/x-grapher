@@ -34,7 +34,7 @@
     "react-move": "^6.1.0",
     "recoil": "0.0.8",
     "ress": "^2.0.4",
-    "swiper": "^5.4.2",
+    "swiper": "^6.5.1",
     "weather-icons": "git+https://github.com/erikflowers/weather-icons.git"
   },
   "devDependencies": {
